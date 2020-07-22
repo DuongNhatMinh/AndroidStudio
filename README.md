@@ -21,9 +21,6 @@
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
   
   
-  <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+ !img(file:///D:/anh/ch%E1%BB%AF%20k%C3%BD.png)
   <b>Copyright Nhật Minh 2020</b>
 </ul>
