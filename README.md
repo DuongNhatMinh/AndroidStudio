@@ -2,7 +2,7 @@
 # (Dương Nhật Minh)
 
 <h1>Các ứng dụng bài tập Android</h1>
-<a>Một số bài khác:</a>
+<b>Một số bài khác:</b>
 <ul>
 <li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Lập trình Android dùng Android Studio</a></li>
 <li><a href="https://github.com/DuongNhatMinh/AndroidStudio3.X">Dạo quanh ứng dụng Android trong Android Studio 3.X</a></li>
