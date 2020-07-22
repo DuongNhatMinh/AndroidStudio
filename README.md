@@ -1,5 +1,5 @@
 # AndroidStudio
-(Dương Nhật Minh)
+<b>(Dương Nhật Minh)</b>
 
 <h1>Các ứng dụng bài tập Android</h1>
 <b>Một số bài khác:</b>
