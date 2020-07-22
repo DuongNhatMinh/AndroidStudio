@@ -18,4 +18,5 @@
   <li><a href="https://github.com/DuongNhatMinh/SendBroadcast">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a></li>
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li>
+<li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
 </ul>
