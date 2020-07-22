@@ -13,8 +13,8 @@
 <li><a href="https://github.com/DuongNhatMinh/MenuExample">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a></li>
 <li><a>ĐỐI TƯỢNG INTENT TRONG ANDROID :</a></li>
 <ul>
-  <li>1<a href="https://github.com/DuongNhatMinh/ExplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)</a></li>
-  <li>2<a href="https://github.com/DuongNhatMinh/ImplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a></li>
-  <li>3<a href="https://github.com/DuongNhatMinh/SendBroadcast">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a></li>
+  <li><a href="https://github.com/DuongNhatMinh/ExplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)</a></li>
+  <li><a href="https://github.com/DuongNhatMinh/ImplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a></li>
+  <li><a href="https://github.com/DuongNhatMinh/SendBroadcast">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a></li>
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android (Phần 1)</a></li>
