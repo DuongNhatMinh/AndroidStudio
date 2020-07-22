@@ -19,4 +19,8 @@
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li>
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
+  
+  
+  <img src=""
+  <b>Copyright Nhật Minh 2020</b>
 </ul>
