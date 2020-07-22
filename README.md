@@ -3,7 +3,7 @@
 
 <h1>Các ứng dụng bài tập Android</h1>
 <a>Một số bài khác:</a>
-
+<ul>
 <li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Lập trình Android dùng Android Studio</a></li>
 <li><a href="https://github.com/DuongNhatMinh/AndroidStudio3.X">Dạo quanh ứng dụng Android trong Android Studio 3.X</a></li>
 <li><a href="https://github.com/DuongNhatMinh/BasicView">Sự kiện và xử lý sự kiện trong Android</a></li>
@@ -18,3 +18,4 @@
   <li><a href="https://github.com/DuongNhatMinh/SendBroadcast">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a></li>
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android (Phần 1)</a></li>
+</ul>
