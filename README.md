@@ -1,6 +1,8 @@
 # AndroidStudio
 <b>(Dương Nhật Minh)</b>
 
+<li><b>Link Bài VIết Tham Khảo: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a><li>
+
 <h1>Các ứng dụng bài tập Android:</h1>
 <ul>
 <li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Lập trình Android dùng Android Studio</a></li>
@@ -18,8 +20,6 @@
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li>
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
-  <li><b>Link Bài VIết Tham Khảo: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a><li>
-  
 <b>
      Môn Học: Android Studio
      Lớp: CTT12CĐ3A
