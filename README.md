@@ -18,7 +18,7 @@
 </ul>
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li>
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
-<li><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Link Bài Viết Tham Khải</a><li>
+  <li><b>Link Bài VIết Tham Khảo:</b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a><li>
   
 <b>
      Môn Học: Android Studio
