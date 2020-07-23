@@ -20,9 +20,9 @@
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
   
 <b>
-     Subject: Android Studio
-     Class: CTT12CĐ3A
-     Time: 22/7/2020
+     Môn Học: Android Studio
+     Lớp: CTT12CĐ3A
+     Thời Gian Học: 22/7/2020
 </b></br>
 <img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true"></br>
   <b>Copyright Nhật Minh © 2020</b>
