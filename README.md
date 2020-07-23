@@ -23,7 +23,7 @@
      Subject: Android Studio
      Class: CTT12CĐ3A
      Time: 22/7/2020
-</b>
+</b></br>
 <img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true"></br>
   <b>Copyright Nhật Minh © 2020</b>
 </ul>
