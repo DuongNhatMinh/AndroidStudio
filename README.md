@@ -2,7 +2,6 @@
 <b>(Dương Nhật Minh)</b>
 
 <li><b>Link Bài VIết Tham Khảo: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a><li>
-
 <h1>Các ứng dụng bài tập Android:</h1>
 <ul>
 <li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Lập trình Android dùng Android Studio</a></li>
