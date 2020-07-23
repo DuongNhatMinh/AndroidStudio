@@ -19,7 +19,11 @@
 <li><a href="https://github.com/DuongNhatMinh/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li>
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
   
-  
+<b>
+     Subject: Android Studio
+     Class: CTT12CĐ3A
+     Time: 22/7/2020
+</b>
 <img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true"></br>
   <b>Copyright Nhật Minh © 2020</b>
 </ul>
