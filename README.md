@@ -21,5 +21,5 @@
   
   
 <img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true"></br>
-  <b>Copyright Nhật Minh 2020</b>
+  <b>Copyright Nhật Minh © 2020</b>
 </ul>
