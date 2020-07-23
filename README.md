@@ -1,5 +1,4 @@
 # AndroidStudio
-<b>(Dương Nhật Minh)</b>
 
 <b>Link Tham Khảo Lập Trình Android: </b><a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tại Đây</a>
 <h1>Các ứng dụng bài tập Android:</h1>
@@ -25,5 +24,6 @@
      Thời Gian Học: 22/7/2020
 </b></br>
 <img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true"></br>
+<b>(Dương Nhật Minh)</b></br>
   <b>Copyright Nhật Minh © 2020</b>
 </ul>
