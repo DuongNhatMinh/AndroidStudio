@@ -20,6 +20,6 @@
 <li><a href="https://github.com/DuongNhatMinh/MayTinh">Bài Tập Máy Tính Bỏ Túi</a></li>
   
   
-<src href="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true">
+<img src="https://github.com/DuongNhatMinh/Chuky/blob/master/Minh.png?raw=true">
   <b>Copyright Nhật Minh 2020</b>
 </ul>
